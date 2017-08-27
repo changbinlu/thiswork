@@ -1,0 +1,85 @@
+image,338,picture,photograph,likeness,form,figure
+light,259,sunny,bright,shiny,luminous,rich
+camera,252,camcorder,Polaroid,35mm,Kodak,video camera
+landscape,251,scenery,photograph,scene,painting,view
+shot,227,break,opportunity,attempt,time,whirl
+iso,168,isp,so,ism,ipo,is of
+photography,153,ceramics,design,drawing,painting,sculpture
+time,151,point,generation,past,second,turn
+lens,128,glass,spectacles,contact,optic,monocle
+shooting,126,gunfire,firing,blasting,gunning,discharging
+exposure,111,disclosure,publicity,risk,vulnerability,hazard
+scene,104,scenery,picture,set,theater,show
+find,103,boast,treasure,jewel,bargain,bonanza
+look,102,stare,peek,glimpse,eye,review
+shoot,100,execute,murder,hit,launch,fire
+take,95,booty,cut,return,revenue,share
+shutter,91,curtain,screen,drape,cover,shade
+photo,90,engraving,picture,photograph,etching,image
+noise,90,cry,explosion,roar,cacophony,commotion
+great,89,huge,enormous,tremendous,big,terrible
+sky,88,lid,firmament,welkin,empyrean,azure
+frame,86,body,fabric,physique,framework,cage
+post,85,pole,panel,shaft,picket,leg
+around,83,over,everywhere,about,any which way,encompassing
+subject,82,exposed,susceptible,conditional,accountable,apt
+sony,82,son,sonsy,stony,song,bony
+help,82,advice,use,service,support,comfort
+foreground,81,beginning,center,focus,fore,front
+astrophotography,80,astrophotographers
+good,78,great,satisfying,exceptional,positive,acceptable
+work,75,task,industry,trial,job,production
+focus,74,focal point,target,spotlight,limelight,core
+dynamic,72,productive,vigorous,energetic,effective,influential
+point,69,stop,mark,count,mite,mote
+day,69,light,daylight,bright,sunshine,sunlight
+focal,67,central,important,main,nucleus,principal
+little,66,scant,insufficient,slight,meager,limited
+night,66,midnight,duskiness,gloom,evening,darkness
+water,66,drink,rain,saliva,aqua,H2O
+composition,64,style,balance,layout,beauty,content
+format,64,scheme,form,pattern,setup,arrangement
+different,62,contrasting,disparate,distinct,distinctive,peculiar
+new,61,late,different,state-of-the-art,modern,unusual
+people,61,crowd,family,community,nation,society
+area,60,field,operation,range,space,breadth
+two,60,pair,double,couple,team,binary
+range,60,area,space,spectrum,field,length
+panorama,59,prospect,picture,vista,survey,purview
+however,58,notwithstanding,yet,nonetheless,anyhow,but
+try,58,shot,essay,whirl,dab,fling
+right,57,good,legal,honest,appropriate,legitimate
+always,57,regularly,constantly,consistently,repeatedly,invariably
+photographer,56,paparazzo,photojournalist,shutterbug,freelance photographer
+sunset,56,nightfall,twilight,sundown,dusk,eventide
+aperture,56,vent,interstice,slit,chasm,slot
+final,56,concluding,closing,ultimate,eventual,end
+think,55,guess,consider,feel,assume,see
+location,55,neighborhood,district,area,locale,venue
+really,54,easily,certainly,absolutely,indeed,well
+fujifilm,54,full volume,forgive me,forgiving me,forgives me,rack of lamb
+well,54,strong,together,sound,trim,great
+field,53,meadow,territory,terrain,range,green
+small,53,poor,limited,short,paltry,slight
+long,53,lengthy,protracted,great,deep,high
+something,53,thing,object,article,being,commodity
+photograph,53,picture,likeness,image,snapshot,print
+back,52,backward,behind,rearward,posterior,tail
+start,52,outset,dawn,kickoff,opening,origin
+capture,52,apprehension,taking,imprisonment,confiscation,seizure
+usually,50,regularly,customarily,routinely,mostly,sometimes
+used,49,worn,hand-me-down,recycled,nearly new,not new
+better,48,superior,improved,exceptional,sophisticated,preferred
+part,48,sector,chunk,any,share,section
+depth,48,intensity,extent,bottom,measurement,drop
+sensor,47,senser,senors,sense,sensory,sens
+tripod,47,mount,frame
+getting,47,securing,taking,winning,catching,pursuing
+interesting,46,beautiful,attractive,intriguing,lovely,provocative
+dark,46,dim,misty,murky,shadowy,overcast
+lot,46,piece,area,field,portion,part
+higher,46,above,over,greater,bigger,larger than
+colour,45,couloir,cooler,collar,cool,cloy
+give,44,sell,accord,grant,provide,deliver
+low,44,small,flat,little,below,depressed
+milky,44,pearly,opaque,opalescent,alabaster,cloude
